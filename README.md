@@ -1,2 +1,2 @@
-# fuckjpress
-jpress 3.x-4.x exp/poc
+1、适用于Jpress 3.x-4.x版本的一键检测及上传文件
+2、只适用于放置与tomcat上运行并且开放了普通用户注册功能和上传图片功能
